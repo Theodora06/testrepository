@@ -6,5 +6,7 @@
 <?php 
 	echo "fin";
 
+echo "bla bla";
+
 ?>
 
